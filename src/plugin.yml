@@ -1,0 +1,12 @@
+name: Enderchat
+version: 1.0
+description: Handles Emoji, Hashtags, and Ect.
+author: HEMCSDS
+main: net.holyenderman.enderchat.Enderchat
+commands:
+   enderchat:
+      description: Enderchat version <version>, For emoji listing use /emoji 
+      usage: /<command>
+   emoji:
+      description: For a complete listing of emoji visit http://holyenderman.net/xxxxxxx
+      usage: /<command> 
